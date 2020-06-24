@@ -3,7 +3,9 @@ King Media - Viral Video Magazine News Script
 Perfect script to start your own viral website.
 
 DEMO:<a href="https://codecanyon.net/item/king-media-video-image-upload-and-share/7877877">DEMO</a>
-BUY:<a href="https://www.paypal.me/MRamonal">BUY</a>
+BUY:<a href="https://www.paypal.me/MRamonal">BUY $10</a>
+Full updates as soon as they released.
+
 
 
 Features
