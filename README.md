@@ -1,3 +1,5 @@
+<img alt="King Media" src="https://codecanyon.img.customer.envatousercontent.com/files/264407727/screenshots_02.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=4246e538cf6e742ce35ac8544e133397"></a>			
+
 King Media - Viral Video Magazine News Script v5.2
 
 Perfect script to start your own viral website.
