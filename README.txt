@@ -1,17 +1,28 @@
-********************************************************************
-	                  King MEDIA
+King Media - Viral Video Magazine News Script
 
-********************************************************************
-********************************************************************
-	FOR MORE INFORMATION "DOCUMENTATION/index.html"
+Perfect script to start your own viral website.
 
-********************************************************************
-********************************************************************
-	SUPPORT FORUM (You can download free add-ons from support forum) > http://kingsupport.sorusor.org
+DEMO:<a href="https://codecanyon.net/item/king-media-video-image-upload-and-share/7877877">DEMO</a>
+BUY:<a href="https://www.paypal.me/MRamonal">BUY</a>
 
-********************************************************************
 
-Thank you for purchasing ...
+Features
+Image Upload & Share From Url , Youtube, Facebook, Vimeo, VK, Vine, Instagram, Metacafe, DailyMotion Videos and Soundcloud
+Comments for Media
+Facebook Comments
+Responsive Layout
+User Profile & Points
+Tags or Category System
+Super Easy Installation
+Full Admin Panel
+Moderate Guest Submissions
+Social Share Buttons
+Search for Media
+Seo Url
+Much More?
 
-Best Regards
-RedKINGS
+Requirements
+PHP 4.3 or later, PHP 5.4.x for all functionality.
+MySQL 4.1 or later, MySQL 5.x for best performance.
+fopen enabled
+fileinfo extension
