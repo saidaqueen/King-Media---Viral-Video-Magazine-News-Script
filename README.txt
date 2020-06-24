@@ -1,4 +1,4 @@
-King Media - Viral Video Magazine News Script
+King Media - Viral Video Magazine News Script v5.2
 
 Perfect script to start your own viral website.
 
