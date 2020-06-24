@@ -10,24 +10,24 @@ Full updates as soon as they released.<br>
 letitviralz[at]gmail.com
 
 <br>
-Features<br>
-Image Upload & Share From Url , Youtube, Facebook, Vimeo, VK, Vine, Instagram, Metacafe, DailyMotion Videos and Soundcloud
-Comments for Media
-Facebook Comments
-Responsive Layout
-User Profile & Points
-Tags or Category System
-Super Easy Installation
-Full Admin Panel
-Moderate Guest Submissions
-Social Share Buttons
-Search for Media
-Seo Url
-Much More?
+<b>Features</b><br>
+Image Upload & Share From Url , Youtube, Facebook, Vimeo, VK, Vine, Instagram, Metacafe, DailyMotion Videos and Soundcloud<br>
+Comments for Media<br>
+Facebook Comments<br>
+Responsive Layout<br>
+User Profile & Points<br>
+Tags or Category System<br>
+Super Easy Installation<br>
+Full Admin Panel<br>
+Moderate Guest Submissions<br>
+Social Share Buttons<br>
+Search for Media<br>
+Seo Url<br>
+Much More?<br>
 
 <br>
-Requirements<br>
-PHP 4.3 or later, PHP 5.4.x for all functionality.
-MySQL 4.1 or later, MySQL 5.x for best performance.
-fopen enabled
-fileinfo extension
+<b>Requirements</b><br>
+PHP 4.3 or later, PHP 5.4.x for all functionality.<br>
+MySQL 4.1 or later, MySQL 5.x for best performance.<br>
+fopen enabled<br>
+fileinfo extension<br>
