@@ -10,7 +10,7 @@ Full updates as soon as they released.<br>
 letitviralz[at]gmail.com
 
 <br>
-Features
+Features<br>
 Image Upload & Share From Url , Youtube, Facebook, Vimeo, VK, Vine, Instagram, Metacafe, DailyMotion Videos and Soundcloud
 Comments for Media
 Facebook Comments
@@ -26,7 +26,7 @@ Seo Url
 Much More?
 
 <br>
-Requirements
+Requirements<br>
 PHP 4.3 or later, PHP 5.4.x for all functionality.
 MySQL 4.1 or later, MySQL 5.x for best performance.
 fopen enabled
